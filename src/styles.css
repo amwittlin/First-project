@@ -1,0 +1,88 @@
+body {
+  padding: 0;
+  display: block;
+  margin: auto;
+  background-size: auto;
+}
+
+form {
+  left: -315px;
+  margin-top: 30px;
+  position: relative;
+}
+
+form .btn {
+  top: -2px;
+  color: #212529;
+  position: relative;
+  border-radius: 4px;
+  background-color: transparent;
+  box-shadow: 1px 1px 3px gray;
+}
+
+input {
+  border-width: thin;
+  border-radius: 4px;
+  background: transparent;
+}
+
+h1 {
+  left: -361px;
+  bottom: -22px;
+  position: relative;
+}
+
+h2 {
+  top: -55px;
+  right: -145px;
+  position: relative;
+  font-weight: 600px;
+  font-size: 70px;
+}
+
+.card {
+  box-shadow: 1px 2px 5px gray;
+  background: transparent;
+}
+i {
+  font-size: 35px;
+}
+
+.date {
+  font-size: 17px;
+  font-weight: light;
+}
+
+.note {
+  font-size: 17px;
+  margin-top: 10px;
+  font-weight: light;
+}
+
+.container {
+  max-width: 1000px;
+  border: 50px;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: thin;
+  margin-top: 50px;
+  text-align: center;
+  box-shadow: 1px 2px 5px gray;
+  background-image: linear-gradient(
+    -225deg,
+    #7085b6 0%,
+    #87a7d9 50%,
+    #def3f8 100%
+  );
+}
+.weather {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  font-size: 20px;
+  text-align: center;
+}
+.units {
+  font-weight: lighter;
+}
