@@ -86,3 +86,7 @@ i {
 .units {
   font-weight: lighter;
 }
+p {
+  font-size: 12px;
+  text-align: left;
+}
